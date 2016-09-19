@@ -1,5 +1,8 @@
 # If you are looking for this project as proof that I made it, or to see examples of my work, send me an email at notq2f2@gmail.com
 
+## DO NOT UNDER ANY CIRCUMSTANCES EMAIL ME ASKING FOR THE GAMEMODE. I DO NOT CARE IF YOU WANT IT, I DO NOT CARE IF YOU THINK YOU ARE THE RIHT PERSON TO RUN IT.
+
+![Please stop](https://my.mixtape.moe/kfcvsw.png)
 
 [8:44 AM] Q2F2: I made a terrible mistake by releasing basewars to the public
 
