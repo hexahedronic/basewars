@@ -1,4 +1,5 @@
-#Due to popular demand we will be selling this on ScriptFodder.
+#Due to popular demand we will be selling this on [ScriptFodder](https://scriptfodder.com/scripts/view/3309).
+
 
 ###If you have a pre-sf private version, contact me and I'll give you manual access.
 ###If you have a public version and want the updates, contact me and I'll cut you a deal.
