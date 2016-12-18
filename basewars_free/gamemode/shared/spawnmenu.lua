@@ -551,11 +551,11 @@ local function MakeTab(type)
 
 				end
 
-				local pO = icon.PaintOver
+				--local pO = icon.PaintOver
 
 				function icon:PaintOver(w, h)
 
-					pO(self, w, h)
+					--pO(self, w, h)
 
 					local text
 

@@ -306,10 +306,12 @@ BaseWars.Commands.AddCommand({"givemoney", "pay", "moneygive"}, function(caller,
 
 	end
 
-	if amount:lower():Trim():match("nan") then return false, "Can't break the system mate" end
+	local amt = amount:lower():Trim()
+	if amt:match("nan") then return false, "Can't break the system mate" end
 
-	amount = tonumber(amount) or 0
-
+	amount = tonumber(amt) or 0
+	
+	if amount <= 0 then return false, false, "Can't break the system mate" end
 	if amount > 0 and caller:GetMoney() < amount then return false, BaseWars.LANG.TooPoor end
 	
 	if ply ~= "" and ply ~= nil then
@@ -343,8 +345,12 @@ BaseWars.Commands.AddCommand({"bounty", "place", "placebounty"}, function(ply, l
 
 	if not BaseWars.Ents:ValidPlayer(Targ) then return false, BaseWars.LANG.InvalidPlayer end
 
-	amount = amount:Trim()
+	amount = amount:lower():Trim()
+	if amt:match("nan") then return false, "Can't break the system mate" end
+	
 	amount = tonumber(amount) or 0
+	
+	if amount <= 0 then return false, false, "Can't break the system mate" end
 
 	local result, error = Targ:PlaceBounty( ply, amount )
 
