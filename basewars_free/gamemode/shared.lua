@@ -1,9 +1,9 @@
-﻿GM.Name 		= "BaseWars"
+GM.Name 		= "BaseWars"
 GM.Author 		= "Q2F2, Ghosty, Liquid, Tenrys, Trixter, User4992"
-GM.Website 		= "http://hexahedronic.org/, http://hexahedronic.github.io/"
+GM.Website 		= "http://hexahedron.pw/, http://hexahedronic.github.io/"
 GM.Credits		= [[
 Thanks to the following people:
-	Q2F2				- Main backend dev.
+	Q2F2			- Main backend dev.
 	Ghosty			- Main frontent dev.
 	Trixter			- Frontend + Several entities.
 	Liquid			- Misc dev, good friend.
@@ -15,7 +15,7 @@ Thanks to the following people:
 This GM has been built from scratch with almost no traces of the original BaseWars existing.
 ]]
 GM.License = [[
-Copyright (c) 2015 Hexahedronic, ]] .. GM.Author .. [[
+Copyright (c) 2015-2016 Hexahedronic, ]] .. GM.Author .. [[
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
