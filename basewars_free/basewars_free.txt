@@ -6,7 +6,7 @@
 	"description"	"War of the Bases. AKA Buy All The Things And Break The Economy."
 
 	"author_name"	"hexahedronic"
-	"author_url"	"http://hexahedronic.org/, http://hexahedronic.github.io/"
+	"author_url"	"http://hexahedon.pw/, http://hexahedronic.github.io/"
 
 	"icon"		""
 	"info"		""
